@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 4f1ee07d984ad4e3cbd972b4f22503c8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Moblins_0
+    21300002: Moblins_1
+    21300004: Moblins_2
+    21300006: Moblins_3
+    21300008: Moblins_4
+    21300010: Moblins_5
+    21300012: Moblins_6
+    21300014: Moblins_7
+    21300016: Moblins_8
+    21300018: Moblins_9
+    21300020: Moblins_10
+    21300022: Moblins_11
+    21300024: Moblins_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Moblins_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 233
+        width: 203
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Moblins_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 213
+        width: 203
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Moblins_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 193
+        width: 203
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Moblins_3
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 174
+        width: 203
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Moblins_4
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 154
+        width: 203
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Moblins_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 134
+        width: 203
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Moblins_6
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 114
+        width: 203
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Moblins_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 95
+        width: 203
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Moblins_8
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 76
+        width: 203
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Moblins_9
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 57
+        width: 203
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Moblins_10
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 37
+        width: 203
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Moblins_11
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 17
+        width: 203
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Moblins_12
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1
+        width: 203
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
